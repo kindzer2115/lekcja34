@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">lekcja33</string>
+    <string name="label_days">Liczba dni pobytu:</string>
+    <string name="hint_days">np. 5</string>
+    <string name="label_transport">Rodzaj transportu:</string>
+    <string name="trans_own">Dojazd własny (0 zł)</string>
+    <string name="trans_bus">Autokar (100 zł)</string>
+    <string name="trans_plane">Samolot (500 zł)</string>
+    <string name="label_options">Opcje dodatkowe:</string>
+    <string name="opt_guide">Przewodnik (150 zł jednorazowo)</string>
+    <string name="opt_breakfast">Śniadania (30 zł / dzień)</string>
+    <string name="btn_calculate">OBLICZ KOSZT</string>
+    <string name="error_empty_days">Wpisz liczbę dni pobytu!</string>
+    <string name="dialog_title">Podsumowanie wycieczki</string>
+    <string name="dialog_message">Liczba dni: %1$d\nCałkowity koszt: %2$d zł</string>
+    <string name="dialog_ok">OK</string>
+</resources>
